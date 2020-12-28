@@ -1,0 +1,19 @@
+{
+  "name": "testingjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fundamentals_of_testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victory-a/testing_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victory-a/testing_javascript/issues"
+  },
+  "homepage": "https://github.com/victory-a/testing_javascript#readme"
+}
